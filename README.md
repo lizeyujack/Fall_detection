@@ -1,6 +1,6 @@
 # Fall_detection
 ## Dataset:
-| \   |数据集1 |     数据集2 |
+|  |数据集1 |     数据集2 |
 | :----- | :--: | :------- |
 | 地址|  http://falldataset.com/ | http://fenix.univ.rzeszow.pl/~mkepski/ds/uf.html |
 | 优点 |  数据集为室内，有每张图像的标签，数据集已经被整理，可以直接打包下载| 数据集含有多角度的图像 |
