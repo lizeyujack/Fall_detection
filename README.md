@@ -15,7 +15,8 @@
 4. 使用这些label进行机器学习的训练
 5. 检验模型
 
-
+## RGB to IR
+- https://github.com/eneserdo/RGB-to-IR-Translation-with-GAN
 
 
 
