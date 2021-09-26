@@ -21,5 +21,6 @@
 - ICCV paper:https://github.com/InnovArul/rgb_IR_personreid
 
 ## 综述+汇总
-
+- Fall Detection from Human Shape
+and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4224216
 
