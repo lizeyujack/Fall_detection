@@ -25,3 +25,6 @@
 and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4224216
 
 - pretrained modle: https://github.com/sankalpsahu27/yolov3-with-Tensorflow2.0/blob/main/detect.py
+
+## 2021-9-27
+- 
