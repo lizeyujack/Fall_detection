@@ -27,4 +27,4 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 - pretrained modle: https://github.com/sankalpsahu27/yolov3-with-Tensorflow2.0/blob/main/detect.py
 
 ## 2021-9-27
-- 
+![output](https://github.com/lizeyujack/Fall_detection/blob/main/output.jpg)
