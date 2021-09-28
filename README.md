@@ -29,3 +29,6 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 ## 2021-9-27
 - 使用yolo v3官方预训练模型，进行调用，自动识别“人”，并输出图像的位置。
 ![output](https://github.com/lizeyujack/Fall_detection/blob/main/output.jpg)
+## 2021-9-28
+- 可以批量将rgb图像转换为IR图像
+- https://github.com/lizeyujack/automatic-recolorization
