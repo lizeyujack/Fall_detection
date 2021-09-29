@@ -45,3 +45,4 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 - 寻找更加合适，且方便的数据集（RGB+对应标签信息）
 - 寻找用于训练的模型ing，初步计划为
 - 参考人体骨骼点检测 https://github.com/cwlroda/falldetection_openpifpaf
+- tf+RNN https://github.com/chizhanyuefeng/Realtime-Fall-Detection-for-RNN
