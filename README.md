@@ -35,3 +35,7 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 ## 2021-9-29
 - 尝试着用yolov3识别人的模型，批量识别图片中的人，并保存box的左上角和右下角坐标。
 - https://github.com/lizeyujack/Fall_detection/blob/main/new.csv
+
+# TODO：
+- 寻找更加合适，且方便的数据集（RGB+对应标签信息）
+- 寻找用于训练的模型ing，初步计划为
