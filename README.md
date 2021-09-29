@@ -32,6 +32,11 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 ## 2021-9-28
 - 可以批量将rgb图像转换为IR图像
 - https://github.com/lizeyujack/automatic-recolorization
+- 原图
+![pic](https://github.com/lizeyujack/automatic-recolorization/blob/main/output_images/rgb_0001_recolored_ideepcolor-px-grid_256_10.png)
+- 效果
+![pic](https://github.com/lizeyujack/automatic-recolorization/blob/main/intermediate_representation/rgb_0001.gray.png)
+
 ## 2021-9-29
 - 尝试着用yolov3识别人的模型，批量识别图片中的人，并保存box的左上角和右下角坐标。
 - https://github.com/lizeyujack/Fall_detection/blob/main/new.csv
