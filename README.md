@@ -47,3 +47,4 @@ and Motion History using Video Surveillance: https://ieeexplore.ieee.org/stamp/s
 - 参考人体骨骼点检测 https://github.com/cwlroda/falldetection_openpifpaf
 - tf+RNN https://github.com/chizhanyuefeng/Realtime-Fall-Detection-for-RNN
 - yolo v3训练详细模型+代码 https://github.com/anasbadawy/YOLOv3-Object-Detection
+- 初学者教程 ： https://blog.csdn.net/qq_33728095/article/details/116331714
